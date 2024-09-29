@@ -1,0 +1,8 @@
+prefix=/home/moriokalab-pc16/catkin_ws/devel
+
+Name: sort_detection_and_tracking
+Description: Description of sort_detection_and_tracking
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

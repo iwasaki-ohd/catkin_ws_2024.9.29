@@ -1,0 +1,7 @@
+set(person_tracking_SETUP_PY_SETUP_MODULE "distutils.core")
+set(person_tracking_SETUP_PY_VERSION "0.0.0")
+set(person_tracking_SETUP_PY_SCRIPTS "")
+set(person_tracking_SETUP_PY_PACKAGES "deep_sort;detector;utils")
+set(person_tracking_SETUP_PY_PACKAGE_DIRS "src/deep_sort;src/detector;src/utils")
+set(person_tracking_SETUP_PY_MODULES "")
+set(person_tracking_SETUP_PY_MODULE_DIRS "")

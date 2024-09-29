@@ -1,0 +1,8 @@
+prefix=/home/moriokalab-pc16/catkin_ws/devel
+
+Name: RS_depth_check
+Description: Description of RS_depth_check
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

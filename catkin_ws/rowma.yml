@@ -1,0 +1,7 @@
+topic_destinations:
+  - destination:
+      type: robot
+      uuid: iwasaki_2
+    topic: /all_data_pc1
+    alias: /all_data_pc1
+# pc1はサブスクライブのみ

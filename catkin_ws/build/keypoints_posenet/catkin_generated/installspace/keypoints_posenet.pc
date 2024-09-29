@@ -1,0 +1,8 @@
+prefix=/home/moriokalab-pc16/catkin_ws/install
+
+Name: keypoints_posenet
+Description: Description of keypoints_posenet
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

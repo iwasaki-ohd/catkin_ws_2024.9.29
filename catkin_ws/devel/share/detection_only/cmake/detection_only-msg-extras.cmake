@@ -1,0 +1,2 @@
+set(detection_only_MESSAGE_FILES "/home/moriokalab-pc16/catkin_ws/src/Yolov5_DeepSort_Pytorch_ros/src/detection_only/msg/Bbox_6.msg;/home/moriokalab-pc16/catkin_ws/src/Yolov5_DeepSort_Pytorch_ros/src/detection_only/msg/Bbox6Array.msg;/home/moriokalab-pc16/catkin_ws/src/Yolov5_DeepSort_Pytorch_ros/src/detection_only/msg/Image.msg;/home/moriokalab-pc16/catkin_ws/src/Yolov5_DeepSort_Pytorch_ros/src/detection_only/msg/Track_6.msg;/home/moriokalab-pc16/catkin_ws/src/Yolov5_DeepSort_Pytorch_ros/src/detection_only/msg/Track6Array.msg")
+set(detection_only_SERVICE_FILES "")

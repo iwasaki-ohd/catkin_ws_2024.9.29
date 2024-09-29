@@ -1,0 +1,8 @@
+prefix=/home/moriokalab-pc16/catkin_ws/install
+
+Name: rowma_ros
+Description: Description of rowma_ros
+Version: 0.0.4
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

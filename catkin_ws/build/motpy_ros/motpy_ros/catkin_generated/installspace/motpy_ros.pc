@@ -1,0 +1,8 @@
+prefix=/home/moriokalab-pc16/catkin_ws/install
+
+Name: motpy_ros
+Description: Description of motpy_ros
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: rospy message_generation

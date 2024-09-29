@@ -1,0 +1,8 @@
+prefix=/home/moriokalab-pc16/catkin_ws/install
+
+Name: image_gain1
+Description: Description of image_gain1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/moriokalab-pc16/catkin_ws/devel
+
+Name: camera_opencv
+Description: Description of camera_opencv
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/moriokalab-pc16/catkin_ws/devel
+
+Name: internship_css
+Description: Description of internship_css
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,35 @@
+# CMake generated Testfile for 
+# Source directory: /home/moriokalab-pc16/catkin_ws/src
+# Build directory: /home/moriokalab-pc16/catkin_ws/build
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+subdirs("gtest")
+subdirs("fast_gicp")
+subdirs("realsense-ros/realsense2_description")
+subdirs("detection_msgs")
+subdirs("ros_posenet")
+subdirs("camera_opencv")
+subdirs("hello")
+subdirs("image_gain1")
+subdirs("internship_css")
+subdirs("keypoints_posenet")
+subdirs("motpy")
+subdirs("my_topic")
+subdirs("person_tracking_ros")
+subdirs("ros_iou_tracking")
+subdirs("ROS-TCP-Endpoint")
+subdirs("rowma_ros")
+subdirs("sort_detection_and_tracking")
+subdirs("darknet_ros/darknet_ros_msgs")
+subdirs("Yolov5_DeepSort_Pytorch_ros/src/detection_only")
+subdirs("darknet_ros/darknet_ros")
+subdirs("motpy_ros/motpy_ros")
+subdirs("opencv_example")
+subdirs("hdl_global_localization")
+subdirs("ndt_omp")
+subdirs("realsense-ros/realsense2_camera")
+subdirs("hdl_localization")
+subdirs("tracking_person_yolo")
+subdirs("yolo_person")
+subdirs("yolov5_ros")
